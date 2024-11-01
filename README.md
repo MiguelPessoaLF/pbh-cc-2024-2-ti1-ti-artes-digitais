@@ -5,9 +5,9 @@ BuyArt é um projeto visando a divulgação de artistas digitais, claramente sem
 ## Alunos integrantes da equipe
 
 * Raphael Grossi Gomes Meireles
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Miguel Pessoa Lima Ferreira
+* Artur Fernandes Braga de Menezes
+* Gabriel Anderson Carvalho da Silva
 
 ## Professores responsáveis
 
